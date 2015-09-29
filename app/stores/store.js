@@ -1,5 +1,5 @@
 import alt from './alt';
-import TodoActions from './TodoActions'
+import TodoActions from '../actions/actions.js'
 
 class TodoStore {
   constructor() {
