@@ -1,0 +1,21 @@
+{
+  "name": "iGrain",
+  "version": "0.0.0",
+  "authors": [
+    "deniskuzin <Denis_Kuzin@epam.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "reflux": "~0.2.12"
+  }
+}
