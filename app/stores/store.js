@@ -15,6 +15,9 @@ class TodoStore {
   updateTodo(todo) {
     this.setState({ todos: this.state.todos.concat(todo) });
   }
+  registerUser() {
+  
+  }
 }
 
 export default alt.createStore(TodoStore, 'TodoStore');

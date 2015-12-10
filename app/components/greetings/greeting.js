@@ -9,7 +9,7 @@ export default React.createClass({
 
   getDefaultProps() {
     return {
-      name: 'React'
+      name: 'Alex'
     };
   },
 

@@ -1,9 +1,7 @@
 import React from 'react';
-import Greeting from './components/greetings/greeting.js';
-
+import RegisterForm from './components/RegisterForm';
 import './styles/style.scss';
-
 React.render(
-    <Greeting />,
-    document.getElementById('root')
+    <RegisterForm />,
+    document.querySelector('#root')
 );
